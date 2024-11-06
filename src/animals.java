@@ -1,9 +1,6 @@
 public class animals {
     public static void main(String[] args) {
         Animal animal = new Animal();
-        animal.color = "pink";
-        animal.eat();
-
 
         Cat cat = new Cat();
         cat.color = "grey";
