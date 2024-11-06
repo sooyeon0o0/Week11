@@ -11,6 +11,7 @@ public class animals {
 
         switch () {
             case 1:
+                // 케이스로 오버로딩 설정
 
         }
         cat.walking.pet();
